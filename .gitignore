@@ -1,2 +1,4 @@
 venv
-setup.py
+build
+census_income.egg-info
+dist
